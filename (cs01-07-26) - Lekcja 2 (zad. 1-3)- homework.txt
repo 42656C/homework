@@ -1,0 +1,80 @@
+1.
+
+Nazwa procesu: opera.exe
+PID: 13056
+PPID: 26520
+Użytkownik: rempr
+CPU: <0.01
+RAM: 232848 K
+Ścieżka: C:\Users\rempr\AppData\Local\Programs\Opera GX
+Command Line: C:\Users\rempr\AppData\Local\Programs\Opera GX\opera.exe
+
+Nazwa procesu: dwm.exe
+PID: 32576
+PPID: 25762
+Użytkownik: DWM-11
+CPU: 0.13
+RAM: 456580 K
+Ścieżka: C:\Windows\System32\dwm.exe
+Command Line: dwm.exe
+
+Nazwa procesu: Slack.exe
+PID: 19464
+PPID: 25696
+Użytkownik: rempr
+CPU: <0.01
+RAM: 3395000 K
+Ścieżka: C:\Program Files\WindowsApps\com.tinyspeck.slackdesktop_4.51.180.0_x64__8yrtsj140pw4g\app
+Command Line: C:\Program Files\WindowsApps\com.tinyspeck.slackdesktop_4.51.180.0_x64__8yrtsj140pw4g\app\Slack.exe
+
+Nazwa procesu: Notepad.exe
+PID: 33912
+PPID: 21792
+Użytkownik: rempr
+CPU: <0.01
+RAM: 203996 K
+Ścieżka: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2605.34.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+Command Line: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2605.34.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+
+Nazwa procesu: NVIDIA Overlay.exe
+PID: 24952
+PPID: 22896
+Użytkownik: rempr
+CPU: <0.01
+RAM: 144088 K
+Ścieżka: C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+Command Line: C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+
+2.
+
+Model: 11th Gen Intel Core i5-11400H
+Architektura: Tiger Like
+Rdzenie 6 rdzeni 12 wątków (procesorów logicznych)
+Cache 1LVL: 480 KB
+Cache 2LVL: 7,5 MB
+Cache 3LVL: 12 MB
+
+3.
+
+Decimal -> Binary -> hex
+10 -> 00001010 -> 0A
+16 -> 00010000 -> 10
+31 -> 00011111 -> 1F
+127 -> 01111111 -> 7F
+128 -> 10000000 -> 80
+255 -> 11111111 -> FF
+
+Hex -> Decimal / ASCII
+0x0A -> 10 / [Znak nowej linii]
+0x41 -> 65 / (Wielka litera A)
+0x7F -> 127 /  [Znak usuwania] (kod sterujący DEL - Delete)
+0xFF -> 255 / ÿ (lub twarda spacja)
+
+Base64 -> tekst
+SGVsbG8= -> [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("SGVsbG8=")) Hello
+YWRtaW4= -> [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("YWRtaW4=")) admin
+
+4. (w pliku "(cs01-07-26) - Lekcja 2 - Zadanie 4 - homework.docx")
+
+
+
